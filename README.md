@@ -1,3 +1,5 @@
+#CS519.M11.KHCL
+Nhóm: DHP
 Họ và tên: Nguyễn Hoàng Hải
 Khóa: 2018
 Ngành: Công nghệ phần mềm
